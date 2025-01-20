@@ -5,5 +5,5 @@ In questo repository sono presenti le implementazioni dei principali modelli uti
 All'interno del repository è possibile trovare l'implementazione dei vari approcci utilizzati. Ad esempio è possibile trovare:
   1. Siamese Neural Network e contrastive loss
   2. Prototypical Network
-  3. Approccio ibrido da me sviluppato che ho chiamato ProtoContrastive Neural Network.
+  3. Approccio ibrido da me sviluppato che ho chiamato ProtoContrastive Neural Network.Per Utilizzare questo bisogna integrare la contrastive loss alla Prototypical Network in fase di addestramento. Esempio di script per il traninig di questo approccio nel file dedicato alla ProtoContrastive Neural Network.
 
